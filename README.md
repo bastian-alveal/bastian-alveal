@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bastian Alveal</h1>
 <h3 align="center">A Junior Devops Engineer</h3>
 
-- 🌱 I’m currently learning **course of DevSecOps on Ec-council platform**
+- 🌱 I’m currently learning **Kubernetes Orquestation with Argocd**
 
 - 💬 Ask me about **to docker, ansible, jenkins**
 
