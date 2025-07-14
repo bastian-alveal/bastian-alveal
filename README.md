@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bastian Alveal</h1>
-<h3 align="center">A Junior Devops Engineer</h3>
+<h3 align="center">A Devops Engineer</h3>
 
-- 🌱 I’m currently learning **Kubernetes Orquestation with Argocd**
+- 🌱 I’m currently learning **Terraform**
 
-- 💬 Ask me about **to docker, ansible, jenkins**
+- 💬 Ask me about **to Docker, Kubernetes, Ansible, Jenkins, Azure,**
 
 - 📫 How to reach me **bastalve@gmail.com**
 
