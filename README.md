@@ -5,8 +5,6 @@
 
 - 💬 Ask me about **CI/CD like github actions - gitlab runners - jenkins - azure devops and others**
 
-- 📫 How to reach me **bastalve@gmail.com**
-
 - 📄 Know about my experiences [DevOps engineer with experience in automation, deployment, and management of cloud and on-premise infrastructure. Specialist in CI/CD, Docker/Kubernetes, Terraform/Ansible, monitoring, and security.](DevOps engineer with experience in automation, deployment, and management of cloud and on-premise infrastructure. Specialist in CI/CD, Docker/Kubernetes, Terraform/Ansible, monitoring, and security.)
 
 <h3 align="left">Connect with me:</h3>
